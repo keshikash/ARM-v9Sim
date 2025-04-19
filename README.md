@@ -5,7 +5,7 @@
 ### Dependencies
 - Make sure gcc is installed with GCC Version 12 and above for ARM v9 support.
 ```bash
-gcc -V
+gcc --version
 gcc.exe (MinGW.org GCC-6.3.0-1) 6.3.0
 Copyright (C) 2016 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
